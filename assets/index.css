@@ -63,6 +63,11 @@ body, html {
       animation-iteration-count: infinite;
       animation-timing-function: linear;
   }
+
+  img {
+      width: 500px;
+      height: 350px;
+  }
   
   #center div {
   font-style: #777777;
