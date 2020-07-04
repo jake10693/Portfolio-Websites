@@ -141,6 +141,21 @@ h4 {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+  img {
+    width: 250px;
+    height: 175px;
+  }
+
+  .topnav {
+    display: block;
+    float: right;
+    margin-right: 50px;
+    font-size: 15px;
+}
+
+header {
+  display: none;
+}
 
 }
 
